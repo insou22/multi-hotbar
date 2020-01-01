@@ -40,7 +40,6 @@ public class MultiHotbar extends JavaPlugin implements Listener {
         }
 
         state.switchTo(event.getNewSlot());
-        event.setCancelled(true);
     }
 
     @Override
