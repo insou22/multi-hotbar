@@ -1,0 +1,10 @@
+name: MultiHotbar
+version: 1.0.0
+main: co.insou.multihotbar.MultiHotbar
+
+commands:
+  multihotbar:
+    aliases:
+      - mh
+      - multih
+      - mhotbar
